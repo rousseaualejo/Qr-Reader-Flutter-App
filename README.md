@@ -10,5 +10,7 @@ Features:
 - Geo Map and Web.
   Open Geo-Qrs with Google maps implementation, and open Links in External browser
   
+### ScreenShots
   <img src="/screenshots/Links_History.png?raw=true" width="360" height="720">
-  
+  <img src="/screenshots/Map.png?raw=true" width="360" height="720">
+  <img src="/screenshots/camera.png?raw=true" width="360" height="720">  
